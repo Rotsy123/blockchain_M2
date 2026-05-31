@@ -2,6 +2,8 @@
 
 Mini-projet Blockchain S14 - IT University Madagascar 2025/2026.
 
+
+
 Sujet choisi : **Mini NFT Marketplace**. L'application permet de minter des NFT ERC-721, de les lister avec un prix en ETH, puis de les acheter via MetaMask sur le réseau Sepolia.
 
 ## Fonctionnalités
@@ -194,8 +196,8 @@ dossier `screenshots/` :
 À compléter avant soumission :
 
 ```text
-Repository GitHub public : https://github.com/...
+Repository GitHub public : https://github.com/Rotsy123/blockchain_M2.git
 Adresse Sepolia Etherscan : https://sepolia.etherscan.io/address/0x4a5a1497cEd5fC29e5B9Cd8fF4CFaafF44D3ab99
-Vidéo de démonstration : https://...
-Déploiement front public : https://...
+Vidéo de démonstration : https://www.youtube.com/watch?v=k7xOg-X-6JI
+
 ```
